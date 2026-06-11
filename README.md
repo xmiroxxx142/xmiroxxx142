@@ -36,23 +36,6 @@
 
 ---
 
-## 📊 GitHub статистика
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=xmiroxxx142&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmiroxxx142&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=xmiroxxx142&theme=tokyonight&hide_border=true&locale=ru)
-
-</div>
-
----
-
 ## 🚀 Мои проекты
 
 | Проект | Описание | Стек |
