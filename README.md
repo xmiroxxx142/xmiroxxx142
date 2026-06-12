@@ -42,6 +42,7 @@
 |--------|----------|------|
 | [🤖 Link](https://github.com/xmiroxxx142/weather-bot) | Telegram-бот | Python, aiogram |
 | [🌐 Link](https://github.com/xmiroxxx142/xmiroxxx142.github.io) | Сайт-визитка | HTML, CSS |
+| [🔗 Link](https://github.com/xmiroxxx142/url-shortener) | Сервис для сокращения ссылок | Python, FastAPI, SQLite, JS |
 
 > Проекты в процессе разработки — появятся здесь совсем скоро!
 
